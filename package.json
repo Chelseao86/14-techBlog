@@ -1,0 +1,21 @@
+{
+  "name": "14-techblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chelseao86/14-techBlog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chelseao86/14-techBlog/issues"
+  },
+  "homepage": "https://github.com/Chelseao86/14-techBlog#readme"
+}
