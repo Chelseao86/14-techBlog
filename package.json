@@ -1,6 +1,7 @@
 {
   "name": "14-techblog",
   "version": "1.0.0",
+  "description": "MySQL database and CMS-style blog that shows a homepage, dashboard, and existing posts. The blog site will also have functionality for signup, login and logout, navigation between the homebage and dashboard, adding a blog post, commenting on a blog post,  deleting a blog post, and automatic logout.", 
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,12 +13,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Chelseao86/14-techBlog/issues"
   },
   "homepage": "https://github.com/Chelseao86/14-techBlog#readme",
-  "description": "",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.2",
@@ -25,6 +25,7 @@
     "express": "^4.17.2",
     "express-handlebars": "^6.0.2",
     "express-session": "^1.17.2",
+    "handlebars": "^4.7.6",
     "mysql2": "^2.3.3",
     "sequelize": "^6.16.0"
   }
