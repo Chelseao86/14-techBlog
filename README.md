@@ -1,12 +1,12 @@
 
-# [Title] Challenge 14 - Model View Controller (MVC)
+# Challenge 14 - Model View Controller (MVC)
 ## Tech Blog
 
 
-## [License]
+## License
 [![License: MIT](https://user-images.githubusercontent.com/74750414/157791111-8c5ad466-eda2-487e-bfdf-501637c9547c.svg)](https://user-images.githubusercontent.com/74750414/157791111-8c5ad466-eda2-487e-bfdf-501637c9547c.svg)
 
-## [Description]
+## Description
 MySQL database and CMS-style blog that shows a homepage, dashboard, and existing posts. The blog site will also have functionality for signup, login and logout, navigation between the homebage and dashboard, adding a blog post, commenting on a blog post,  deleting a blog post, and automatic logout.
 
 
@@ -15,7 +15,7 @@ MySQL database and CMS-style blog that shows a homepage, dashboard, and existing
    + [Installation](#installation)
    + [Tests/Examples](#testing) 
    + [Contribution](#contribution)
-   + [Links] (#links)
+   + [Links](#links)  
 
 
 ## Usage
@@ -38,10 +38,7 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
 
 ## Contribution
-Made by Chelsea O. Holmstead
-©️2021 Efficiently Yours, LLC
-
+[GitHub Profile](https://github.com/Chelseao86)
 
 ## Contact
-GitHub: [GitHub Profile](https://github.com/Chelseao86)
-Email: [Email] (cholmstead@efficientlyyoursllc.com)
+[Email] (cholmstead@efficientlyyoursllc.com)
