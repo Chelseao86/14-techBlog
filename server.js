@@ -1,13 +1,15 @@
 //relationships
 const express = require("express");
 const session = require("express-session");
-const hbs = require("express-handlebars"); 
-const sequelize = require("./config/connection")
-// const SequelizeStore = require("connect-session-sequelize")(session.Store);
+const exphbs = require("express-handlebars"); 
+const sequelize = require("./config/connection");
+const SequelizeStore = require("connect-session-sequelize")(session.Store);
 const routes = require("./controllers");
 const path = require("path");
 const handlebarsHelpers = require("./utils/helpers");
-const exphbs = hbs({helpers: handlebarsHelpers});
+const hbs = exphbs.create({helpers: handlebarsHelpers});
+
+
 
 
 //initialize server
@@ -29,18 +31,20 @@ const sess = {
   },
   resave: false,
   saveUninitialized: true,
-  store: new SequlizeStore({
+  store: new SequelizeStore({
     db: sequelize,
   }),
 };
 
 
+app.engine("handlebars", hbs.engine);
+app.set("view engine", "handlebars");
+
 
 //implement and use
 app.use(session(sess));
 app.use(routes);
-app.engine("handlebars", exphbs);
-app.set("view engine", "handlebars");
+
 
 //create connection
 sequelize.sync({ force: false }).then(() => {
