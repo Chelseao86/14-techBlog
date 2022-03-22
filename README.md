@@ -25,21 +25,15 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
 
 
-## Installation
-
-
-
-## Tests/Examples
-
-
+## Examples
+https://github.com/Chelseao86/14-techBlog/blob/main/Assets/images/14-techBlog.jpg
 
 ## Links
 Repository Link: https://github.com/Chelseao86/14-techBlog (Links to an external site.)
-
 Heroku Link: https://ch14techblog2.herokuapp.com
 
 ## Contribution
 [GitHub Profile](https://github.com/Chelseao86)
 
 ## Contact
-[Email] (cholmstead@efficientlyyoursllc.com)
+cholmstead@efficientlyyoursllc.com
