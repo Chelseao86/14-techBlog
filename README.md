@@ -29,7 +29,7 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 ![ScreenShot](./Assets/images/14techBlog.jpg)
 
 ## Links
-![Github Repository] (https://github.com/Chelseao86/14-techBlog)
+[Github Repository] (https://github.com/Chelseao86/14-techBlog)
 Heroku Link: https://ch14techblog2.herokuapp.com
 
 ## Contribution
