@@ -34,8 +34,9 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
 
 ## Links
+Repository Link: https://github.com/Chelseao86/14-techBlog (Links to an external site.)
 
-
+Heroku Link: https://ch14techblog2.herokuapp.com
 
 ## Contribution
 [GitHub Profile](https://github.com/Chelseao86)
