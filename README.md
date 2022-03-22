@@ -26,7 +26,7 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
 
 ## Examples
-[https://github.com/Chelseao86/14-techBlog/blob/main/Assets/images/14-techBlog.jpg]
+![ScreenShot](./Assets/images/14-techBlog.jpg)
 
 ## Links
 Repository Link: https://github.com/Chelseao86/14-techBlog (Links to an external site.)
